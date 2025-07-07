@@ -7,6 +7,20 @@ The official **EddieBot** for the EddieHub [Discord server](http://discord.eddie
   <img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open EddieBot in Gitpod">
 </a>
 
+## 📚 Table of Contents
+
+- [Features](#features)
+- [Config / Secrets environment variables](#config--secrets-environment-variables)
+- [Installation](#installation)
+- [Running the app](#running-the-app)
+- [Running the tests](#running-the-tests)
+- [Support](#support)
+- [License](#license)
+- [Thanks to all Contributors 💪](#thanks-to-all-contributors-)
+- [Our Pledge](#our-pledge)
+
+
+
 ## Features
 
 - Checking peoples' messages for inclusive language.
@@ -152,7 +166,7 @@ The EddieBot is licensed under the [MIT](https://github.com/EddieHubCommunity/Ed
 
 Thanks a lot for spending your time helping EddieBot grow. Thanks a lot! Keep rocking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=EddieHubCommunity/EddieBot)](https://github.com/EddieHubCommunity/EddieBot/graphs/contributors)
+[![List of contributors on GitHub](https://contrib.rocks/image?repo=EddieHubCommunity/EddieBot)](https://github.com/EddieHubCommunity/EddieBot/graphs/contributors)
 
 ## Our Pledge
 
