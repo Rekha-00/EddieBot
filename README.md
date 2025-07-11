@@ -43,7 +43,8 @@ ADMIN_CHANNEL=
 
 ## Installation
 
-**1.** Start by making a fork of the repository. Click on the "Fork" symbol at the top right corner.
+**1.** Start by making a fork of the repository. Click the **Fork** button in the top-right corner of this page.
+
 
 **2.** Clone your new fork of the repository:
 
